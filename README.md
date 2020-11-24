@@ -1,3 +1,3 @@
 # Codeforces-solutions
-Solutions to questions in the problem set at Codeforces
-Solutions are in C++.
+- Solutions of Codeforces problems.
+- Solutions are in C++.
